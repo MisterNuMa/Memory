@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+}
+
+.titre {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.madiv {
+    height: 500px;
+    width: 500px;
+    margin: 0 auto;
+}
+
+img{
+    cursor:pointer;
+    height: 125px;
+    width: 125px;
+}
